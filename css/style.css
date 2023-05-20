@@ -1,0 +1,8 @@
+@font-face {
+    font-family:fzse_gbk;
+    src: url(../fzse_gbk/fzse_gbk.ttf);
+}
+
+body.font{
+    font-family:fzse_gbk;
+}

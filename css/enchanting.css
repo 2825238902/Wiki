@@ -1,0 +1,129 @@
+
+div.enchanting{
+    width:243px;
+    height:350px;
+    image-rendering:pixelated;
+    transform-style: preserve-3d;
+    perspective: 900px;
+    transition: 1s;
+    margin: 100px auto;
+}
+
+div.enchenting:hover{
+    transform: translateY(10px);
+}
+
+li{
+    position: absolute;
+    transform-origin: left;
+    margin-left: 42%;
+}
+
+li:nth-child(1){
+    transform: rotateY(-104deg);
+    transition: 1s;
+}
+
+li:nth-child(2){
+    transform: rotateY(-102deg);
+    transition: 1s;
+}
+
+li:nth-child(3){
+    transform: rotateY(-98deg);
+    transition: 1s;
+}
+
+li:nth-child(4){
+    transform: rotateY(-94deg);
+    transition: 1s;
+}
+
+li:nth-child(5){
+    transform: rotateY(-90deg);
+    transition: 1s;
+}
+
+li:nth-child(6){
+    transform: rotateY(-87deg);
+    transition: 1s;
+}
+
+li:nth-child(7){
+    transform: rotateY(-83deg);
+    transition: 1s;
+}
+
+li:nth-child(8){
+    transform: rotateY(-80deg);
+    transition: 1s;
+}
+
+li:nth-child(9){
+    transform: rotateY(-78deg);
+    transition: 1s;
+}
+
+li:nth-child(10){
+    transform: rotateY(-75deg);
+    transition: 1s;
+}
+
+
+
+div:hover li:nth-child(1){
+    transform: rotateY(-160deg);
+    transition: 0.6s;
+}
+
+div:hover li:nth-child(2){
+    transform: rotateY(-155deg);
+    transition: 0.7s;
+}
+
+div:hover li:nth-child(3){
+    transform: rotateY(-150deg);
+    transition: 0.8s;
+}
+
+div:hover li:nth-child(4){
+    transform: rotateY(-145deg);
+    transition: 0.9s;
+}
+
+div:hover li:nth-child(5){
+    transform: rotateY(-140deg);
+    transition: 1s;
+}
+
+div:hover li:nth-child(6){
+    transform: rotateY(-45deg);
+    transition: 1s;
+}
+
+div:hover li:nth-child(7){
+    transform: rotateY(-43deg);
+    transition: 0.9s;
+}
+
+div:hover li:nth-child(8){
+    transform: rotateY(-38deg);
+    transition: 0.8s;
+}
+
+div:hover li:nth-child(9){
+    transform: rotateY(-35deg);
+    transition: 0.7s;
+}
+
+div:hover li:nth-child(10){
+    transform: rotateY(-30deg);
+    transition: 0.6s;
+}
+
+img{
+    image-rendering:pixelated;
+    width:243px;
+    height:350px;
+    box-shadow:1px 4px 5px rgba(0, 0, 0, 0.2);
+}

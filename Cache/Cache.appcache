@@ -1,0 +1,8 @@
+CACHE MANIFEST
+CACHE:
+../fzse_gbk/fzse_gbk.ttf
+./Error.html
+../index.html
+
+FALLBACK:
+../css/style.css ./Error.html

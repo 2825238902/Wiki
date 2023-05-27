@@ -14,7 +14,7 @@ div.enchenting:hover{
 }
 
 div.enchenting:active{
-    transform: translateX(50px);
+    transform: translateX(550px);
 }
 
 li{

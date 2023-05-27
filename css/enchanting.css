@@ -13,6 +13,10 @@ div.enchenting:hover{
     transform: translateY(10px);
 }
 
+div.enchenting:active{
+    transform: translateX(50px);
+}
+
 li{
     position: absolute;
     transform-origin: left;
